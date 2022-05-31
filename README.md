@@ -1,6 +1,6 @@
 # OperadorAtribuição
 
-Imagem do arquivo: <a href="https://github.com/silassanttos/Operadores/blob/main/cod201.cpp">cod201.cpp</a> <br>
+Código da imagem: <a href="https://github.com/silassanttos/Operadores/blob/main/cod201.cpp">cod201.cpp</a> <br>
 
 Saida no console:
 
@@ -10,5 +10,7 @@ Saida no console:
 <hr>
 
 # Comandos de Seleção
+
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/cod202.cpp">cod202.cpp</a>
 
 ![image](https://user-images.githubusercontent.com/69328711/171073101-7a525484-2441-4eca-872f-8832b1585841.png)
