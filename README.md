@@ -33,3 +33,12 @@ Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/ca
 ![image](https://user-images.githubusercontent.com/69328711/171774803-bdf9475f-b039-4866-8e24-a35871194a70.png)
 
 
+<hr>
+
+# Botão INPUT - PULL-UP
+
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/botao_input_PULLUP.cpp">botao_input_PULLUP.cpp</a>
+<br>
+
+![image](https://user-images.githubusercontent.com/69328711/171778965-6c0b479e-65ef-4ee3-b5b8-58e4f0b065f1.png)
+
