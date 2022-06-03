@@ -27,8 +27,8 @@ Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/Se
 
 # Caractere
 
-Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/Caractere.cpp">Caractere.cpp</a>
-
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/caractere.cpp">Caractere.cpp</a>
+<br>
 ![image](https://user-images.githubusercontent.com/69328711/171774677-01edc7bf-5b4a-4540-9847-47d011ecdffa.png)
 ![image](https://user-images.githubusercontent.com/69328711/171774803-bdf9475f-b039-4866-8e24-a35871194a70.png)
 
