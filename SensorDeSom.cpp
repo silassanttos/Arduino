@@ -1,4 +1,4 @@
-//DEFINICAO DOS PINOS
+//DEFINIÇAO DOS PINOS
 #define pinLed1  2
 #define pinLed2  3
 #define pinLed3  4
