@@ -23,3 +23,13 @@ Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/Se
 
 ![image](https://user-images.githubusercontent.com/69328711/171770756-5538cd33-947e-451c-b904-e7958cf34b2c.png)
 
+<hr>
+
+# Caractere
+
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/Caractere.cpp">Caractere.cpp</a>
+
+![image](https://user-images.githubusercontent.com/69328711/171774677-01edc7bf-5b4a-4540-9847-47d011ecdffa.png)
+![image](https://user-images.githubusercontent.com/69328711/171774803-bdf9475f-b039-4866-8e24-a35871194a70.png)
+
+
