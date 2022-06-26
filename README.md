@@ -11,7 +11,7 @@ Saida no console:
 
 # Comandos de Seleção
 
-Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/cod202.cpp">cod202.cpp</a>
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/ligando_3_leds_conforme_sua_cor.cpp">cod202.cpp</a>
 
 ![image](https://user-images.githubusercontent.com/69328711/171073101-7a525484-2441-4eca-872f-8832b1585841.png)
 
