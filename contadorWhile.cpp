@@ -1,3 +1,4 @@
+//=================[While]=================
 int contador;
 void setup() {
   // set up all the LEDs as OUTPUT
@@ -13,3 +14,22 @@ void setup() {
 void loop() {
    
 }
+
+
+//=================[FOR]=================
+void setup()
+{
+  Serial.begin(9600);
+for (int contador=0;contador<=10;contador++){
+Serial.println("Testando o comando de repeticao for()");
+Serial.println(contador);
+}
+
+}
+void loop()
+{
+  
+
+}
+
+
