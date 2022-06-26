@@ -46,7 +46,7 @@ Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/bo
 
 
 # Imprimindo uma mensagem em um LCD
-Código da imagem: <a href="">botao_input_PULLUP.cpp</a>
+Código da imagem: <a href="https://github.com/silassanttos/Arduino/blob/main/Atividade%20Pr%C3%A1tica%20I/Programa%C3%A7%C3%A3o_LCD.cpp">botao_input_PULLUP.cpp</a>
 <br>
 Utilizando a biblioteca LiquidCrystal <br>
 ![teste](https://user-images.githubusercontent.com/69328711/175824456-0dd6121c-83f5-4e40-9fee-5cb0e8b8ffe3.gif)
